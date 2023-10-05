@@ -1,0 +1,5 @@
+C:\Users\josem\OneDrive\Documentos\puc\easydental\easydental\obj\Debug\net6.0\easydental.csproj.AssemblyReference.cache
+C:\Users\josem\OneDrive\Documentos\puc\easydental\easydental\obj\Debug\net6.0\easydental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\OneDrive\Documentos\puc\easydental\easydental\obj\Debug\net6.0\easydental.AssemblyInfoInputs.cache
+C:\Users\josem\OneDrive\Documentos\puc\easydental\easydental\obj\Debug\net6.0\easydental.AssemblyInfo.cs
+C:\Users\josem\OneDrive\Documentos\puc\easydental\easydental\obj\Debug\net6.0\easydental.csproj.CoreCompileInputs.cache

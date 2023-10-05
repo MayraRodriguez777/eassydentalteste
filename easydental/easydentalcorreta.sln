@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6834EC91-0EAE-48B0-AF29-4280A02916E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B8263AB4-CCB9-4877-ACA5-796251C3A409}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{D3ED614F-6766-4074-BE65-07091CECD5B0}"
+	ProjectSection(SolutionItems) = preProject
+		appsettings.json = appsettings.json
+		MinhaAplicacao.csproj = MinhaAplicacao.csproj
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Home", "Home", "{8D9CC8A6-8426-4414-B4C6-E037A9F8E114}"
+	ProjectSection(SolutionItems) = preProject
+		css.html = css.html
+		Home.html = Home.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cadastro cliente", "Cadastro cliente", "{DDDFC55B-9242-4CCD-A2D0-07A7B00EB5FB}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage1.html = HTMLPage1.html
+		Script1.js = Script1.js
+		StyleSheet1.css = StyleSheet1.css
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eassydental", "eassydental\eassydental.csproj", "{7FF3E398-C77B-47D6-A339-96EA0E4CE393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FF3E398-C77B-47D6-A339-96EA0E4CE393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF3E398-C77B-47D6-A339-96EA0E4CE393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF3E398-C77B-47D6-A339-96EA0E4CE393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF3E398-C77B-47D6-A339-96EA0E4CE393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B8263AB4-CCB9-4877-ACA5-796251C3A409} = {6834EC91-0EAE-48B0-AF29-4280A02916E9}
+		{D3ED614F-6766-4074-BE65-07091CECD5B0} = {B8263AB4-CCB9-4877-ACA5-796251C3A409}
+		{8D9CC8A6-8426-4414-B4C6-E037A9F8E114} = {B8263AB4-CCB9-4877-ACA5-796251C3A409}
+		{DDDFC55B-9242-4CCD-A2D0-07A7B00EB5FB} = {B8263AB4-CCB9-4877-ACA5-796251C3A409}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C8DF462-15B4-45E1-A623-23B9AB253E89}
+	EndGlobalSection
+EndGlobal
